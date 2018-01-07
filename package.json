@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "eslint": "^4.15.0"
+  },
+
+  "scripts": {
+    "test": "cantina"
+  }
+}
